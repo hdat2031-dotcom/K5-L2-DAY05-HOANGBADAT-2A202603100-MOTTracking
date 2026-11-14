@@ -8,7 +8,7 @@
 - MSSV: 2A202603100
 - Mã đề (A/B/C): B
 - Email: dat.hb2026@vinuni.edu.vn
-- Link repository: https://github.com/HoangBaDat/K5-L2-DAY05-HOANGBADAT-2A202603100-MOTTracking
+- Link repository: https://github.com/hdat2031-dotcom/K5-L2-DAY05-HOANGBADAT-2A202603100-MOTTracking
 - Giờ bắt đầu: 08:00
 - Giờ kết thúc: 11:35
 
